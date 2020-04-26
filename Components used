@@ -1,0 +1,7 @@
+ARDUINO UNO 
+HC-SR04 Ultrasonic Sensor 
+Buzzer Few jumpers wire  A breadboard 
+Baud rate
+Bluetooth-38400
+Serial communication - 9600
+Tx of Arduino to rx of Bluetooth and Vice versa
